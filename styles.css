@@ -1,7 +1,31 @@
-/* add your CSS here */
-#bor{
-    border:1px solid black;
+.interesting-fact{
+    font-style:italic;
+
 }
-ul{
-    list-style: none;
+.width-spec
+{
+    font-weight:bold;
+}
+.image-specification
+{
+    width:300px;
+    height:200px;
+}
+.body
+{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    border:dashed 2px black;
+    border-radius:4px;
+    padding:10px 10px 10px 10px;
+    width:400px;
+}
+.name-img-info
+{
+    border:dotted 2px black;
+    border-radius:4px;
+    padding:10px 10px 10px 10px;
+}
+.space
+{
+    padding:2px 2px 2px 2px;
 }
